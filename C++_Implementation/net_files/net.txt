@@ -1,0 +1,5 @@
+Input 1 No_activation
+Dense 100 tanh
+Dense 100 tanh
+Output 1 sigmoid
+Loss = binary_cross_entropy
